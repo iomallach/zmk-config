@@ -57,7 +57,7 @@
 //                    | TRANS |     | TRANS |   | TRANS    |        | TRANS  |
                         bindings = <
    &kp TAB  &bt BT_PRV  &bt BT_NXT   &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp ASTRK &kp LPAR  &kp RPAR &kp BSPC
-   &kp LCTRL  &brans      &trans       &trans   &trans   &trans      &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp BSLH &kp GRAVE
+   &kp LCTRL  &trans      &trans       &trans   &trans   &trans      &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp BSLH &kp GRAVE
    &kp LSHFT  &trans      &trans       &trans   &trans   &trans      &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE &kp TILDE
                               &trans   &trans   &trans      &trans   &trans    &trans
                         >;
